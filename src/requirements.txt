@@ -1,0 +1,7 @@
+biopython
+scikit-learn
+scikit-image
+numpy
+pandas
+scipy
+sklearn
