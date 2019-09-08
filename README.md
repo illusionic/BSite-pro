@@ -17,6 +17,8 @@ of problem i.e. protein active and conserved sites prediction.
 
 Preprint of related publication available here: https://www.researchgate.net/publication/330556523_BSite-pro_Traditional_Approach_for_Binding_Site_Prediction_in_Protein_Sequence
 
+![Paper Image 1](https://github.com/illusionic/BSite-pro/blob/master/src/interpro-annotations.pdf)
+
 # Import points:
 - Requires python3.6
 - See requirements.txt for exact version of libraries used.
