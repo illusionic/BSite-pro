@@ -15,6 +15,8 @@ of problem i.e. protein active and conserved sites prediction.
 * Yasrub Bashir Malik, Khalid Muneer (p146116@nu.edu.pk, p136145@nu.edu.pk) -- Queries about ML should go here.
 * Hafeez ur Rehman (hafeez.urrehman@nu.edu.pk) -- Queries about Bioinformatics should go here.
 
+Preprint of related publication available here: https://www.researchgate.net/publication/330556523_BSite-pro_Traditional_Approach_for_Binding_Site_Prediction_in_Protein_Sequence
+
 # Import points:
 - Requires python3.6
 - See requirements.txt for exact version of libraries used.
@@ -32,13 +34,14 @@ of problem i.e. protein active and conserved sites prediction.
 # Execution:
 1) The code is properly commented with guidelines on how to extract features of protein sequence data. 
 2) Once the files have been created, one can run train/validation:
+
 This is done through `python train.py`.
 
 # License
 
 This code is provided under the MIT License.
 
-Copyright 2018 Yasrub Bashir Malik, Khalid Muneer and Hafeez-ur-Rehman
+Copyright 2019 Hafeez Ur Rehman and Yasrub Bashir Malik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
