@@ -3,12 +3,12 @@
 Accurate protein binding site annotations are vital for a profound understanding of biological processes and
 protein interactions. Due to less supporting information a large number of proteins remain uncharacterised.
 For large sets of uncharacterised proteins, only amino acid information is available. In this paper, we proposed
-BSite-pro – a traditional approach – which utilizes only the protein sequences to predict its associated binding
-site. The prediction process requires hand-crafted features of the protein sequences. Our results indicate
-significant improvements in terms of prediction accuracy and recall when compared to other sequence-based
-methods. BSite-pro achieves an overall validation accuracy of 85.06% and recall of 82.17%. Finally, we
-discuss that using the same feature extraction methods and model, we successfully solved two different types
-of problem i.e. protein active and conserved sites prediction.
+BSite-pro – a traditional approach – which makes use of protein sequence data for classification of binding
+sites. The classification procedure requires hand-crafted features from protein sequences. Our results stipulate noteworthy enhancements concerning predicted accuracy and recall upon comparison with previously
+proposed sequence-based techniques. BSite-pro achieves an overall validation accuracy of 85.06% and recall
+of 82.17%. Finally, we discuss that using the same feature extraction methods and model, we profitably dealt
+with two contrasting types of problem i.e. protein active and conserved sites prediction.
+
 
 # Authors:
 
