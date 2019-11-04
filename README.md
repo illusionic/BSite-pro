@@ -12,7 +12,7 @@ with two contrasting types of problem i.e. protein active and conserved sites pr
 
 # Authors:
 
-* Yasrub Bashir Malik, Khalid Muneer (p146116@nu.edu.pk, p136145@nu.edu.pk) -- Queries about ML should go here.
+* Malik Yasrub Bashir, Khalid Muneer (p146116@nu.edu.pk, p136145@nu.edu.pk) -- Queries about ML should go here.
 * Hafeez ur Rehman (hafeez.urrehman@nu.edu.pk) -- Queries about Bioinformatics should go here.
 
 Preprint of related publication available here: https://www.researchgate.net/publication/330556523_BSite-pro_Traditional_Approach_for_Binding_Site_Prediction_in_Protein_Sequence
@@ -43,7 +43,7 @@ This is done through `python train.py`.
 
 This code is provided under the MIT License.
 
-Copyright 2019 Hafeez Ur Rehman and Yasrub Bashir Malik
+Copyright 2019 Hafeez Ur Rehman and Malik Yasrub Bashir 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
