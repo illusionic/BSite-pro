@@ -15,7 +15,7 @@ with two contrasting types of problem i.e. protein active and conserved sites pr
 * Malik Yasrub Bashir, Khalid Muneer (p146116@nu.edu.pk, p136145@nu.edu.pk) -- Queries about ML should go here.
 * Hafeez ur Rehman (hafeez.urrehman@nu.edu.pk) -- Queries about Bioinformatics should go here.
 
-Preprint of related publication available here: https://www.researchgate.net/publication/330556523_BSite-pro_A_Novel_Approach_for_Binding_Site_Prediction_in_Protein_Sequences
+Conference paper is available here: https://ieeexplore.ieee.org/document/8994703
 
 ![Paper Image 1](https://github.com/illusionic/BSite-pro/blob/master/src/interpro-annotations.PNG)
 
